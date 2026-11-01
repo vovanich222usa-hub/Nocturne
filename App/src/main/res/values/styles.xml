@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme"
+        parent="@android:style/Theme.Material.NoActionBar">
+
+        <!-- Основные цвета ночного интерфейса -->
+        <item name="android:colorAccent">#B9A7D8</item>
+        <item name="android:windowBackground">#10151D</item>
+
+        <!-- Системные панели -->
+        <item name="android:statusBarColor">#10151D</item>
+        <item name="android:navigationBarColor">#0B1017</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- Оформление окна -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:fontFamily">sans</item>
+
+    </style>
+
+</resources>
